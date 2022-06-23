@@ -24,7 +24,7 @@ An awesome list of trends, surveys, and other pieces of data tracking the pulse 
   - [2012](https://insights.stackoverflow.com/survey/2012)
   - [2011](https://insights.stackoverflow.com/survey/2011)
 
--[Devographics' State of JS Survey](https://stateofjs.com/en-us/) (2016 - Present)
+- [Devographics' State of JS Survey](https://stateofjs.com/en-us/) (2016 - Present)
   - [2021](https://2021.stateofjs.com/)
   - [2020](https://2020.stateofjs.com/)
   - [2019](https://2019.stateofjs.com/)
