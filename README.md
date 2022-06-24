@@ -40,6 +40,14 @@ An awesome list of trends, surveys, and other pieces of data tracking the pulse 
 - [Devographics' State of Graph QL](https://www.stateofgraphql.com/en-us/) (2022 - Present)
   - [2022](https://www.stateofgraphql.com/en-us/) This one is still running, submit your answers!
 
+- PYPL Popularity Surveys
+  - [Programming Languages](https://pypl.github.io/PYPL.html)
+  - [IDEs](https://pypl.github.io/IDE.html)
+  - [ODEs](https://pypl.github.io/ODE.html)
+  - [Databases](https://pypl.github.io/DB.html)
+
+- **Smartbear's Various State Ofs** Smartbear, unfortunately, requires that you provide an email address to access this information. I'll leave it up to the individual reader to decide whether the information they provide is worth having your inbox flooded with promotional emails about Swaggerhub.
+
 
 ## Contributing
 Please do! If you know about any surveys that we are missing, please open an issue or make a PR.
