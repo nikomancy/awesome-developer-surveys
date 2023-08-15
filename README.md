@@ -1,9 +1,10 @@
-# awesome-developer-trends
+# awesome-developer-surveys
 An awesome list of trends, surveys, and other pieces of data tracking the pulse of the IT industry. A big list of quantitative resources for people looking to understand more about trends in developer tools, communities, practices, and work. Intended for Product Managers, developers, marketers, entrepreneurs, and the odd software development anthropologist.
 
 ## Annual "State of" Reports
 
 - [Github State of the Octoverse Report](https://octoverse.github.com/) (2016 - Present)
+  - [2021](https://octoverse.github.com/2021/)
   - [2020](https://octoverse.github.com/2020/)
   - [2019](https://octoverse.github.com/2019/)
   - [2018](https://octoverse.github.com/2018/)
@@ -38,7 +39,15 @@ An awesome list of trends, surveys, and other pieces of data tracking the pulse 
   - [2019](https://2019.stateofcss.com/)
 
 - [Devographics' State of Graph QL](https://www.stateofgraphql.com/en-us/) (2022 - Present)
-  - [2022](https://www.stateofgraphql.com/en-us/) This one is still running, submit your answers!
+  - [2022](https://www.stateofgraphql.com/en-us/) This one is still running. Submit your answers!
+ 
+- [Basedash State of Databases](https://stateofdb.com/) (2022 - Present)
+  - [2023](https://stateofdb.com/)
+  - [2022](https://2022.stateofdb.com/)
+
+- [The State of Laravel Survey](https://stateoflaravel.com/) (2022 - Present)
+  - [2023](https://stateoflaravel.com/) - * Currently running
+  - [2022](https://stateoflaravel.com/results)
 
 - PYPL Popularity Surveys
   - [Programming Languages](https://pypl.github.io/PYPL.html)
