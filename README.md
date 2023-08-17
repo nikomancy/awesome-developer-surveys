@@ -26,6 +26,7 @@ An awesome list of trends, surveys, and other pieces of data tracking the pulse 
   - [2011](https://insights.stackoverflow.com/survey/2011)
 
 - [Devographics' State of JS Survey](https://stateofjs.com/en-us/) (2016 - Present)
+  - [2022](https://2022.stateofjs.com/en-US)
   - [2021](https://2021.stateofjs.com/)
   - [2020](https://2020.stateofjs.com/)
   - [2019](https://2019.stateofjs.com/)
@@ -34,6 +35,7 @@ An awesome list of trends, surveys, and other pieces of data tracking the pulse 
   - [2016](https://2016.stateofjs.com/)
 
 - [Devographics' State of CSS](https://stateofcss.com/en-us/) (2019 - Present)
+  - [2022](https://2022.stateofcss.com/en-US)
   - [2021](https://2021.stateofcss.com/)
   - [2020](https://2020.stateofcss.com/)
   - [2019](https://2019.stateofcss.com/)
