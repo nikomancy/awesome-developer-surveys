@@ -53,7 +53,7 @@ An awesome list of trends, surveys, and other pieces of data tracking the pulse 
   - [2023](https://timescale.typeform.com/state-of-pg-23) - * Currently running
   - [2022](https://www.timescale.com/state-of-postgres/2022)
  
-- [Ruby on Rails Survey](https://rails-hosting.com/)
+- [Ruby on Rails Survey](https://rails-hosting.com/) (2009 - Present)
   - [2022](https://rails-hosting.com/2022/)
   - [2020](https://rails-hosting.com/2020/)
   - [2018](https://rails-hosting.com/2018/)
