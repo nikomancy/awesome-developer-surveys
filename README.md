@@ -52,6 +52,15 @@ An awesome list of trends, surveys, and other pieces of data tracking the pulse 
 - [Timescale's State of PostgreSQL](https://www.timescale.com/state-of-postgres/2022) (2022 - Present)
   - [2023](https://timescale.typeform.com/state-of-pg-23) - * Currently running
   - [2022](https://www.timescale.com/state-of-postgres/2022)
+ 
+- [Ruby on Rails Survey](https://rails-hosting.com/)
+  - [2022](https://rails-hosting.com/2022/)
+  - [2020](https://rails-hosting.com/2020/)
+  - [2018](https://rails-hosting.com/2018/)
+  - [2016](https://rails-hosting.com/2016/index.html)
+  - [2014](https://rails-hosting.com/2014/index.html)
+  - [2012](https://rails-hosting.com/2012/index.html)
+  - [2009](https://rails-hosting.com/2009/index.html)
 
 - PYPL Popularity Surveys
   - [Programming Languages](https://pypl.github.io/PYPL.html)
